@@ -29,5 +29,7 @@ Note:
 If you are given an array with multiple answers, return the lowest correct index.
 
 - Author : Shivo 
-- [Link](https://www.codewars.com/users/Shivo)!
+- [Author Profile](https://www.codewars.com/users/Shivo)
+- [Problem Link](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
+
 */

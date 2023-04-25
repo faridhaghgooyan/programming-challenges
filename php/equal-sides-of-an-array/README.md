@@ -29,7 +29,7 @@
   <a href="#dart-goal">Goal</a> &#xa0; | &#xa0; 
   <a href="#sparkles-simplification">Simplification</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#memo-Sources">Sources</a> &#xa0; | &#xa0;
+  <a href="#memo-Sources">Sources</a> &#xa0;
 </p>
 
 <br>

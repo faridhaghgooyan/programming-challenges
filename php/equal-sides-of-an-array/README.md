@@ -1,17 +1,17 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Php_skillup" />
+  <img src="./.github/app.gif" alt="Equal Sides Of An Array" />
 
   &#xa0;
 
   <!-- <a href="https://php_skillup.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Php_skillup</h1>
+<h1 align="center">Equal Sides Of An Array</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/php_skillup?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/faridhaghgooyan/programming-challenges?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/php_skillup?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/faridhaghgooyan/programming-challenges?color=56BEB8">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/php_skillup?color=56BEB8">
 

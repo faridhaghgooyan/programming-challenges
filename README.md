@@ -1,4 +1,9 @@
-# Programming challenges
+<h1 align="center">Programming challenges</h1>
+
+<p align="center">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/faridhaghgooyan/programming-challenges?color=56BEB8">
+  <img alt="Github stars" src="https://img.shields.io/github/stars/faridhaghgooyan/programming-challenges?color=56BEB8" />
+</p>
 
 <p align="center">
   <img alt="Programming challenges" src="./Banner-9-845x321.webp">

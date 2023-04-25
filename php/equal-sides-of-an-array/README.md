@@ -28,9 +28,6 @@ The lowest index N where the side to the left of N is equal to the side to the r
 Note:
 If you are given an array with multiple answers, return the lowest correct index.
 
-Author : Shivo 
-Link : https://www.codewars.com/users/Shivo
-
 - Author : Shivo 
 - [Link](https://www.codewars.com/users/Shivo)!
 */

@@ -21,25 +21,15 @@
 
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/faridhaghgooyan/programming-challenges?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/faridhaghgooyan/programming-challenges?color=56BEB8" /> -->
+  <img alt="Github stars" src="https://img.shields.io/github/stars/faridhaghgooyan/programming-challenges?color=56BEB8" />
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Php_skillup 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
 
 <p align="center">
-  <a href="#dart-about">Goal</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Simplification</a> &#xa0; | &#xa0;
+  <a href="#dart-goal">Goal</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-simplification">Simplification</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="#memo-Sources">Sources</a> &#xa0; | &#xa0;
 </p>
 
 <br>
@@ -91,9 +81,9 @@ The following tools were used in this project:
 
 ## :memo: Sources ##
 
-- Author : Shivo 
+- Challenge By Shivo 
 - [Author Profile](https://www.codewars.com/users/Shivo)
-- [Problem Link](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
+- [Challenge Link](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
 
 
 <a href="#top">Back to top</a>

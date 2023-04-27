@@ -14,6 +14,7 @@ Life and work present us with many challenges, and it's essential to train our b
 ## Table of Contents ##
 
 - PHP
-  - [Equal Sides Of An Array](https://github.com/faridhaghgooyan/programming-challenges/tree/main/php/equal-sides-of-an-array)
+  - [Are they the "same"?](https://github.com/faridhaghgooyan/programming-challenges/tree/main/php/are-they-the-same)
   - [Roman Numerals Encoder](https://github.com/faridhaghgooyan/programming-challenges/tree/main/php/Roman_Numerals_Encoder)
+  - [Equal Sides Of An Array](https://github.com/faridhaghgooyan/programming-challenges/tree/main/php/equal-sides-of-an-array)
 

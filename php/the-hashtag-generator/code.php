@@ -6,5 +6,5 @@ function generateHashtag(string $str)
     return '#' . $result;
 }
 
-$arg = ' Hello there thanks for trying my Kata';
+$arg = str_repeat("a", 139);
 var_dump(generateHashtag( $arg ));

@@ -28,45 +28,31 @@
 
 ## :dart: Goal ##
 
-It's all about algorithms. An algorithm is a step-by-step procedure used to solve a problem or perform a computation. This challenge involves using a simple algorithm to determine the relationship between numbers and Roman numerals.
+This challenge is all about strings, as you will be dealing with them throughout different parts of your application. Like other data types, strings have numerous built-in functions that you need to be familiar with. In this challenge, you will have the opportunity to work with various string functions.
 
 ## :sparkles: Simplification ##
 
-As always, I have separated this challenge into different parts. In the first part, I create a list based on Roman units, tens, hundreds, and thousands.
+In this challenge, your task is to capitalize each word of a string. The function ucwords is the solution to achieving this.
 
 ```bash
-# roman numeral list
-$roman_unit = ['','I','II','III','IV','V','VI','VII','VIII','IX'];
-$roman_tens = ['','X','XX','XXX','XL','L','LX','LXX','LXXX','XC'];
-$roman_hundreds = ['','C','CC','CCC','CD','D','DC','DCC','DCCC','CM'];
-$roman_thousands = ['','M','MM','MMM'];
+# convert the first letter of a string to uppercase
+ucwords( $str )
 ```
 
-In the next part, I break down the passed integer argument into units, tens, hundreds, and thousands using the floor() function.
+Now, your next task is to remove all spaces from the string. This can easily be done using the str_replace function.
 
 ```bash
-# Assign the sum of the elements to the left and right sides of the current index to a variable.
-$units = $number % 10;
-$tens = floor($number / 10) % 10;
-$hundreds = floor($number / 100) % 10;
-$thousands = floor($number / 1000) % 10;
+# remove all spaces from a string
+str_replace( ' ', '', ucwords( $str ) )
 ```
 
-Then, I use the resulting values as array index. It's important to note that there is a limitation in this challenge: the integer argument cannot exceed 3999 due to the limitations of Roman numerals.
+The function must return false under two conditions. First, if the length of the $str is zero (i.e., empty). Second, if the length of the final result (i.e., # + $str) is greater than 140 characters. In other words, if the length of the given $str is more than 140 characters, the function should also return false.
 ```bash
-function RomanNumeralsEncoder(int $number) : string
+function generateHashtag(string $str) 
 {
-    if($number < 1 || $number > 3999) return $number . ' is out of the rang.the correct range is between 1 to 3999';
-    $roman_unit = ['','I','II','III','IV','V','VI','VII','VIII','IX'];
-    $roman_tens = ['','X','XX','XXX','XL','L','LX','LXX','LXXX','XC'];
-    $roman_hundreds = ['','C','CC','CCC','CD','D','DC','DCC','DCCC','CM'];
-    $roman_thousands = ['','M','MM','MMM'];
-    
-    $units = $number % 10;
-    $tens = floor($number / 10) % 10;
-    $hundreds = floor($number / 100) % 10;
-    $thousands = floor($number / 1000) % 10;
-    return $roman_thousands[$thousands] . $roman_hundreds[$hundreds] . $roman_tens[$tens] . $roman_unit[$units];
+    $result = str_replace( ' ', '', ucwords( $str ) );
+    if( empty( $result ) || strlen( $result ) >= 140 ) return false;
+    return '#' . $result;
 }
 
 ```

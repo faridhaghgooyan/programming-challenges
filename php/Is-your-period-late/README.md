@@ -52,9 +52,9 @@ The following tools were used in this project:
 
 ## :memo: Sources ##
 
-- Challenge By AKJ.IO 
-- [Author Profile](https://www.codewars.com/users/AKJ.IO)
-- [Challenge Link](https://www.codewars.com/kata/52449b062fb80683ec000024/train/php)
+- Challenge By 0xcc 0xcc 0xcc 0xcc 
+- [Author Profile](https://www.codewars.com/users/int3_0xcc)
+- [Challenge Link](https://www.codewars.com/kata/578a8a01e9fd1549e50001f1/php)
 
 
 <a href="#top">Back to top</a>
